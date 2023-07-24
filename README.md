@@ -12,9 +12,9 @@
 2. 비속어 탐지는 실시간으로 활용 -> 속도가 빠른 트랜스포머 모델 찾기
 3. 실제 활용되기 위해서는 빠르지만 가벼운 모델이여야함
 4. 후보군
-  1) MobileBERT
-  2) TinyBERT
-  3) FastBERT
+  > 1) MobileBERT
+  > 2) TinyBERT
+  > 3) FastBERT
 5. 가벼우면서 빠른 장점을 가진 MobileBERT 선정
 
 ## MobileBERT 특징
